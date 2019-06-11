@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1560235179 source:c:\users\sett\documents\curso c y c++\practicas\lectura escritura y deteccion de teclado\lector de teclado\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
